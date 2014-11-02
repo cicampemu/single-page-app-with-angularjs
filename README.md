@@ -9,5 +9,7 @@ Each entry/person can be clicked to display a single person's profile with his f
 It uses Angular Route module (angular-route.min.js) to load the different views/partials of the app (list.html & details.html).
 
 Model: data.json
+
 Controllers: apps.js & controllers.js
+
 Views: list.html & details.html
