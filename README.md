@@ -10,6 +10,6 @@ It uses Angular Route module (angular-route.min.js) to load the different views/
 
 Model: data.json
 
-Controllers: apps.js & controllers.js
+Controllers: app.js & controllers.js
 
 Views: list.html & details.html
