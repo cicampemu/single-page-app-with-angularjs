@@ -13,3 +13,5 @@ Model: data.json
 Controllers: app.js & controllers.js
 
 Views: list.html & details.html
+
+Code based on Tuto by Lynda.com.
